@@ -6,7 +6,7 @@
 // terrestrial longitude, which can be provided by a flag or by reading a file in
 // the format used by the Plan 9 astro command: one line of text containing the
 // latitude, west longitude, and elevation. (Only the longitude is used.)
-package main // import "robpike.io/sid"
+package main // import "robpike.io/cmd/sid"
 
 import (
 	"flag"
